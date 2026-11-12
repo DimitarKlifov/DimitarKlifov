@@ -31,4 +31,4 @@ I like building practical tools that solve real problems, from scraping and anal
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/dimitar-klifov-b1b109396/) · 🌍 Macedonian, English (C1)
+[LinkedIn](https://www.linkedin.com/in/dimitar-klifov/) · 🌍 Macedonian, English (C1)
